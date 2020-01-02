@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60fe211f-5973-4b4a-b118-15db6bf434ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Test Namespace" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VejwvTmqS00TC2QaqsE8pVk0Jd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="cursive.last.file.extension.D\:/Documents/lein/tutorial_project/tutorial/src" value="clj" />
+    <property name="cursive.last.file.extension.D\:/Documents/lein/tutorial_project/tutorial/test" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ReplState" timestamp="1577970151051">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.repl">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="tutorial" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pet_age_converter" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="tutorial" />
+      <setting name="path" value="$PROJECT_DIR$/src/tutorial/pet_age_converter.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/tutorial" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tutorial.core" type="LeiningenRunConfiguration" factoryName="Leiningen">
+      <module name="tutorial" />
+      <arguments argument="run" />
+      <setting name="profiles" value="" />
+      <setting name="trampoline" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.pet_age_converter" />
+      <item itemvalue="Clojure REPL.repl" />
+      <item itemvalue="Leiningen.tutorial.core" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.pet_age_converter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577623121704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577623121704" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1577970124540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1314" height="195" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1577630044817" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577970124540" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1577970124540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1314" height="195" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1577630044817" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577970124540" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1577970124539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1314" height="195" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1577630044817" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577970124539" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1577970124540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1314" height="195" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1577630044817" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577970124540" />
+    <state x="247" y="116" key="com.intellij.ide.util.TipDialog" timestamp="1577970112544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="247" y="116" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577970112544" />
+  </component>
+</project>
